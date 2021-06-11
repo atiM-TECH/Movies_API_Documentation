@@ -1,6 +1,6 @@
 # Movies API
 
-API documentation template for Jekyll. Browse through a [live demo](https://tangerine-lemon.cloudvent.net/).
+API documentation template for Jekyll.
 Start documenting your API with this configurable theme.
 
 ![Movies API template screenshot](images/_screenshot.png)
